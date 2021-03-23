@@ -18,6 +18,7 @@
 
 + [Python3 or later](https://www.python.org/downloads/)
 + [NLTK](https://www.nltk.org/)
++ [PyStemmer](https://github.com/snowballstem/pystemmer)
 + [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 + [Flask](https://flask.palletsprojects.com/en/1.1.x/installation/#installation)
 + [Flask Pagination](https://pythonhosted.org/Flask-paginate/)
